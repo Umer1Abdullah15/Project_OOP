@@ -1,0 +1,63 @@
+ID: 1, Name: Burger, Description: Delicious burger, Price: RS_250, Quantity: 30
+ID: 2, Name: Pizza, Description: Tasty pizza, Price: RS_1200, Quantity: 25
+ID: 3, Name: Salad, Description: Healthy salad, Price: RS_50, Quantity: 20
+ID: 4, Name: Pasta, Description: Classic pasta, Price: RS_150, Quantity: 15
+ID: 5, Name: Ice Cream, Description: Sweet and cool ice cream, Price: RS_90, Quantity: 20
+ID: 6, Name: Steak, Description: Juicy and flavorful steak, Price: RS_1500, Quantity: 10
+ID: 7, Name: Chicken Salad, Description: Grilled chicken with fresh greens, Price: RS_100, Quantity: 15
+ID: 8, Name: Sushi, Description: Assorted sushi rolls, Price: RS_200, Quantity: 18
+ID: 9, Name: Vegetarian Pizza, Description: Delicious pizza with assorted veggies, Price: RS_1400, Quantity: 12
+ID: 10, Name: Chocolate Cake, Description: Rich and moist chocolate cake, Price: RS_2000, Quantity: 8
+ID: 11, Name: Chicken Biryani, Description: Fragrant rice with spiced chicken, Price: RS_220, Quantity: 20
+ID: 12, Name: Paneer Tikka, Description: Grilled cottage cheese marinated in spices, Price: RS_150, Quantity: 15
+ID: 13, Name: Palak Paneer, Description: Creamy spinach curry with cottage cheese, Price: RS_300, Quantity: 18
+ID: 14, Name: Dal Makhani, Description: Lentils cooked with butter and cream, Price: RS_400, Quantity: 25
+ID: 15, Name: Gulab Jamun, Description: Sweet dumplings in sugar syrup, Price: RS_150, Quantity: 30
+ID: 1, Name: Burger, Description: Delicious burger, Price: RS_250, Quantity: 30
+ID: 2, Name: Pizza, Description: Tasty pizza, Price: RS_1200, Quantity: 25
+ID: 3, Name: Salad, Description: Healthy salad, Price: RS_50, Quantity: 20
+ID: 4, Name: Pasta, Description: Classic pasta, Price: RS_150, Quantity: 15
+ID: 5, Name: Ice Cream, Description: Sweet and cool ice cream, Price: RS_90, Quantity: 20
+ID: 6, Name: Steak, Description: Juicy and flavorful steak, Price: RS_1500, Quantity: 10
+ID: 7, Name: Chicken Salad, Description: Grilled chicken with fresh greens, Price: RS_100, Quantity: 15
+ID: 8, Name: Sushi, Description: Assorted sushi rolls, Price: RS_200, Quantity: 18
+ID: 9, Name: Vegetarian Pizza, Description: Delicious pizza with assorted veggies, Price: RS_1400, Quantity: 12
+ID: 10, Name: Chocolate Cake, Description: Rich and moist chocolate cake, Price: RS_2000, Quantity: 8
+
+ID: 10, Name: Chocolate Cake, Description: Rich and moist chocolate cake, Price: RS_2000, Quantity: 2
+ID: 1, Name: Burger, Description: Delicious burger, Price: RS_250, Quantity: 30
+ID: 2, Name: Pizza, Description: Tasty pizza, Price: RS_1200, Quantity: 25
+ID: 3, Name: Salad, Description: Healthy salad, Price: RS_50, Quantity: 20
+ID: 4, Name: Pasta, Description: Classic pasta, Price: RS_150, Quantity: 15
+ID: 5, Name: Ice Cream, Description: Sweet and cool ice cream, Price: RS_90, Quantity: 20
+ID: 6, Name: Steak, Description: Juicy and flavorful steak, Price: RS_1500, Quantity: 10
+ID: 7, Name: Chicken Salad, Description: Grilled chicken with fresh greens, Price: RS_100, Quantity: 15
+ID: 8, Name: Sushi, Description: Assorted sushi rolls, Price: RS_200, Quantity: 18
+ID: 9, Name: Vegetarian Pizza, Description: Delicious pizza with assorted veggies, Price: RS_1400, Quantity: 12
+ID: 10, Name: Chocolate Cake, Description: Rich and moist chocolate cake, Price: RS_2000, Quantity: 8
+
+ID: 4, Name: Pasta, Description: Classic pasta, Price: RS_150, Quantity: 1
+ID: 1, Name: Burger, Description: Delicious burger, Price: RS_250, Quantity: 30
+ID: 2, Name: Pizza, Description: Tasty pizza, Price: RS_1200, Quantity: 25
+ID: 3, Name: Salad, Description: Healthy salad, Price: RS_50, Quantity: 20
+ID: 4, Name: Pasta, Description: Classic pasta, Price: RS_150, Quantity: 15
+ID: 5, Name: Ice Cream, Description: Sweet and cool ice cream, Price: RS_90, Quantity: 20
+ID: 6, Name: Steak, Description: Juicy and flavorful steak, Price: RS_1500, Quantity: 10
+ID: 7, Name: Chicken Salad, Description: Grilled chicken with fresh greens, Price: RS_100, Quantity: 15
+ID: 8, Name: Sushi, Description: Assorted sushi rolls, Price: RS_200, Quantity: 18
+ID: 9, Name: Vegetarian Pizza, Description: Delicious pizza with assorted veggies, Price: RS_1400, Quantity: 12
+ID: 10, Name: Chocolate Cake, Description: Rich and moist chocolate cake, Price: RS_2000, Quantity: 8
+
+ID: 5, Name: Ice Cream, Description: Sweet and cool ice cream, Price: RS_90, Quantity: 3
+ID: 1, Name: Burger, Description: Delicious burger, Price: RS_250, Quantity: 30
+ID: 2, Name: Pizza, Description: Tasty pizza, Price: RS_1200, Quantity: 25
+ID: 3, Name: Salad, Description: Healthy salad, Price: RS_50, Quantity: 20
+ID: 4, Name: Pasta, Description: Classic pasta, Price: RS_150, Quantity: 15
+ID: 5, Name: Ice Cream, Description: Sweet and cool ice cream, Price: RS_90, Quantity: 20
+ID: 6, Name: Steak, Description: Juicy and flavorful steak, Price: RS_1500, Quantity: 10
+ID: 7, Name: Chicken Salad, Description: Grilled chicken with fresh greens, Price: RS_100, Quantity: 15
+ID: 8, Name: Sushi, Description: Assorted sushi rolls, Price: RS_200, Quantity: 18
+ID: 9, Name: Vegetarian Pizza, Description: Delicious pizza with assorted veggies, Price: RS_1400, Quantity: 12
+ID: 10, Name: Chocolate Cake, Description: Rich and moist chocolate cake, Price: RS_2000, Quantity: 8
+
+ID: 2, Name: Pizza, Description: Tasty pizza, Price: RS_1200, Quantity: 2

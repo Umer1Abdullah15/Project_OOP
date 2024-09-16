@@ -1,0 +1,4 @@
+ID: 10, Name: Chocolate Cake, Description: Rich and moist chocolate cake, Price: RS_2000, Quantity: 2
+ID: 4, Name: Pasta, Description: Classic pasta, Price: RS_150, Quantity: 1
+ID: 5, Name: Ice Cream, Description: Sweet and cool ice cream, Price: RS_90, Quantity: 3
+ID: 2, Name: Pizza, Description: Tasty pizza, Price: RS_1200, Quantity: 2
